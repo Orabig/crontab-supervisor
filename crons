@@ -1,0 +1,2 @@
+#!/bin/sh
+ps aux | grep apache > /var/www/html/index.html
